@@ -1,0 +1,18 @@
+{
+  "name": "sino-vue-libs",
+  "version": "0.0.6",
+  "description": "开源培训组件库",
+  "main": "lib/sino-libs.umd.min.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Sino UI Layout"
+  ],
+  "author": "rivers-01@qq.com",
+  "license": "MIT",
+  "dependencies": {}
+}
