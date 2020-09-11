@@ -1,5 +1,7 @@
 # 培训组件库
 
+[查看在线文档](https://c78702505.github.io/sino-vue-libs/)
+
 ## 安装
 ```
 npm install sino-vue-libs -S
@@ -53,7 +55,7 @@ Vue.component(SinoAvatar.name, SinoAvatar)
 </script>
 ```
 
-详细文档开发中...
+[查看在线文档](https://c78702505.github.io/sino-vue-libs/)
 
 ## LICENSE
 [MIT](LICENSE)
