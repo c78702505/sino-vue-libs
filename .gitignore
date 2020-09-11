@@ -9,7 +9,7 @@ build
 dev
 lib/demo.html
 *.map
-*.html
+
 
 # local env files
 .env.local
